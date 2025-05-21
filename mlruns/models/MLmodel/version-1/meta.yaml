@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747847701239
+current_stage: None
+description: ''
+last_updated_timestamp: 1747847701239
+name: MLmodel
+run_id: d61310a826b04ecba72350676f75fc87
+run_link: ''
+source: file:///C:/Users/aishl/Downloads/ML-Fashion-Recommendation-System/mlruns/169847641734090152/d61310a826b04ecba72350676f75fc87/artifacts/hybrid_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/aishl/Downloads/ML-Fashion-Recommendation-System/mlruns/169847641734090152/d61310a826b04ecba72350676f75fc87/artifacts/hybrid_model
+user_id: null
+version: 1

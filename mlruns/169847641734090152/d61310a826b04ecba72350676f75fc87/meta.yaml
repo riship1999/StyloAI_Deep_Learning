@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aishl/Downloads/ML-Fashion-Recommendation-System/mlruns/169847641734090152/d61310a826b04ecba72350676f75fc87/artifacts
+end_time: 1747845955931
+entry_point_name: ''
+experiment_id: '169847641734090152'
+lifecycle_stage: active
+run_id: d61310a826b04ecba72350676f75fc87
+run_name: hybrid_recommender_training
+run_uuid: d61310a826b04ecba72350676f75fc87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747845936522
+status: 3
+tags: []
+user_id: aishl

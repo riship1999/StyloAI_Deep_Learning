@@ -1,0 +1,58 @@
+{
+  "models": {
+    "collaborative_filtering": {
+      "collaborative_filtering_20250206_133431": {
+        "id": "collaborative_filtering_20250206_133431",
+        "timestamp": "20250206_133431",
+        "metrics": {
+          "mse": 16.03126926973982,
+          "rmse": 4.003906750879673,
+          "mae": 3.9076911373572147
+        },
+        "hash": "60d3446eec4278ea70fd71b429dd0145b4f28502f32264a2941abd7343eafc7b",
+        "path": "models\\versions\\collaborative_filtering_20250206_133431\\cf_model.joblib",
+        "metadata": {
+          "n_factors": 100
+        }
+      }
+    },
+    "content_based": {
+      "content_based_20250206_133431": {
+        "id": "content_based_20250206_133431",
+        "timestamp": "20250206_133431",
+        "metrics": {
+          "mean_similarity": 0.027408478034559317,
+          "coverage": 0.5733036887316827
+        },
+        "hash": "d5953d6e04cde3e4bc180b9bc7b61b5ed0b0122170c6e48d0fca0c5218bec827",
+        "path": "models\\versions\\content_based_20250206_133431\\cb_model.joblib",
+        "metadata": {
+          "max_features": 5000
+        }
+      }
+    },
+    "hybrid": {
+      "hybrid_20250206_133435": {
+        "id": "hybrid_20250206_133435",
+        "timestamp": "20250206_133435",
+        "metrics": {
+          "test_mse": 9.356972694396973,
+          "test_rmse": 3.058916915249084,
+          "final_train_loss": 9.21117607239754
+        },
+        "hash": "42e19eefa41c9ea2c37464c110f54b7550e20f23a2257e1f26bc6989d44456cf",
+        "path": "models\\versions\\hybrid_20250206_133435\\hybrid_model.pth",
+        "metadata": {
+          "architecture": "neural_network",
+          "n_epochs": 10,
+          "batch_size": 64
+        }
+      }
+    }
+  },
+  "current": {
+    "collaborative_filtering": "collaborative_filtering_20250206_133431",
+    "content_based": "content_based_20250206_133431",
+    "hybrid": "hybrid_20250206_133435"
+  }
+}
