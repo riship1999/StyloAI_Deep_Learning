@@ -1,4 +1,4 @@
-# Advanced Fashion Recommendation System: ML Engineering Portfolio Project 🚀
+# Advanced Fashion Recommendation System (StyloAI): ML Engineering Portfolio Project 🚀
 
 A production-ready machine learning system that combines collaborative filtering, content-based filtering, and deep learning for personalized fashion recommendations. This project showcases advanced ML engineering practices including model deployment, feature engineering, and real-time inference.
 
