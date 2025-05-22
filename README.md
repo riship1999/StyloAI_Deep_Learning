@@ -195,3 +195,6 @@ Contributions are welcome! Areas for improvement:
 - ML community
 - Open-source contributors
 
+
+## Video walkthrough
+[📹 Video Link](https://youtu.be/xH3LwEpdpnk)
