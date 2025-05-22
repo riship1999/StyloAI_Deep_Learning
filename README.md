@@ -198,3 +198,9 @@ Contributions are welcome! Areas for improvement:
 
 ## Video walkthrough
 [📹 Video Link](https://youtu.be/xH3LwEpdpnk)
+
+## Project Report
+[Report](https://github.com/riship1999/StyloAI_Deep_Learning/blob/main/fashion%20recommender%20system%20report.pdf)
+
+## Prsentation slides
+[Slides](https://github.com/riship1999/StyloAI_Deep_Learning/blob/main/Presented%20by%20SpartanSquad.pptx)
